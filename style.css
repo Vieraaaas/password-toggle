@@ -15,3 +15,7 @@ body {
 main {
   align-self: center;
 }
+
+button {
+  width: 7rem;
+}
